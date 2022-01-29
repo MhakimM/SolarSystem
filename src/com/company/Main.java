@@ -6,9 +6,13 @@ public class Main {
 	// write your code here
 
 
-        SolarSystem milkway= new SolarSystem();
+        SolarSystem milkyway= new SolarSystem();
+        milkyway.sun=1;
+        milkyway.Moon=2;
+        milkyway.Planets=3;
 
-        
+
+
 
 
     }
